@@ -60,7 +60,7 @@ int main()
 	vector<Widget> widgets;
 	Widget w;
 	//widgets.push_back(w);
-	widgets.emplace_back(w);
+	//widgets.emplace_back(w);
 
 
 	return 0;

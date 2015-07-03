@@ -5,7 +5,7 @@
 auto a = 0; // R++ alt-enter here
 auto b = 123.f; // for example `d`, remove the =
 auto c = L"hello";
-auto d = { 1, 2, 3 }; // no Alt+Enter for this one :)
+auto d = { 1, 2, 3 };
 
 auto const volatile coeff = 2.5;
 

@@ -10,6 +10,7 @@
   #include <functional>
   #include <memory>
   #include <type_traits>
+  #include <initializer_list>
 #else
   #include <bits/stdc++.h>
 #endif
