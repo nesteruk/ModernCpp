@@ -1,6 +1,6 @@
 #pragma once
 
-#if _WIN32
+#if defined(_WIN32) || (defined(__APPLE__) && defined(__MACH__))
   #include <cstdio>
   #include <iostream>
   #include <string>
